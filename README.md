@@ -1,6 +1,7 @@
 # SciPubStyle
 Style formatting for compliance with scientific publishers
 
+NOTE: This project is on hiatus for time being (August 16, 2024) 
 
 Dependencies installed via pip:
 ```bash
